@@ -1,4 +1,10 @@
-internships.db
+venv/
 __pycache__/
 *.pyc
+
+credentials/credentials.json
+token.pickle
+token.json
+
+internships.db
 .env
